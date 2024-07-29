@@ -12,5 +12,29 @@ The primary aim of My Weather App is to offer a user-friendly experience for obt
 
 output img
 ![image](https://github.com/user-attachments/assets/0d79081a-95b1-4413-aad5-c59f40f96fe1)
+This is the final result of the source code, which have many section like  
+1.	#:- its represent the number of tasks . 
+ 
+2.	Task /description:- it explains what we have to do,what our goals to achieve or tasks to complete 
+3.	Responsible:- This section refers to person or people who is responsible to complete the task . 
+ 
+4.	ETA :-  This section tell about times when will be task to be completed. 
+ 
+ 
+5.	Status:- This section shows the status of work or task completion  
+ 
+                it contains two section i.e. 
+•	Edit option 
+•	Check box (completion of work) 
+![image](https://github.com/user-attachments/assets/b6c3365a-4b93-41b9-9a21-0f6ee154475c)
+The above image or screenshot explains when we want to add more tasks then we have to just simply click Add Task in the interface it will open a popup menu which consist 3 section i.e. 
+	Task /Description 
+	Responsible 
+	ETA 
+ ![image](https://github.com/user-attachments/assets/a36b789c-84d7-42a6-8bbf-fdaedb36a69d)
+  This above image shows when you click edit symbol which is present in the status section,it opens a pop up menu which allows you to change or modify the task .
+
+
+
 
 
