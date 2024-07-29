@@ -1,7 +1,7 @@
- NAME: - Payal Kumari
- company:- CODTECH IT SOLUTIONS
- DOMAIN NAME: - WEB development
- INTERN ID: - CT08DS3845
+ NAME: - Payal Kumari,
+ company:- CODTECH IT SOLUTIONS,
+ DOMAIN NAME: - WEB development,
+ INTERN ID: - CT08DS3845,
  BATCH DURATION: - July to August 2024
 
 Overview
